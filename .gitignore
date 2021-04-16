@@ -1,3 +1,6 @@
 *.swp
 node_modules/
+dist/
+yarn.lock
+.yarn
 npm-debug.log
